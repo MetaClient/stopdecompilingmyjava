@@ -64,3 +64,9 @@ hi
 
 ## History
 I've been using this exploit in my obfuscator Binscure ever since I discovered it in March this year. Since its now found its way into many other obfuscators I am publishing this writeup.
+
+## JByteMod / JByteMod Reborn / JByteMod Remastered
+JByteMod won't be able to load the class.
+
+#### Patch Date
+2020-02-18
